@@ -7,10 +7,8 @@ Integrantes:
 - Ivanna Martines
 - Fernando Hernández
 
-### ODS Elegido 
+### ODS Elegido 13 - Accioón por el clima
 ---
-13 - Accioón por el clima
-
 **Problema específico**: a través de pequeños acciones o cambio de comportamiento (misiones u objetivos) disminuir la huella de carbono producida por el usuario
 
 
