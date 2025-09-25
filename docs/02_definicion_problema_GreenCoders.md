@@ -1,10 +1,10 @@
-1.- ODSy población objetivo  
+# ODS y población objetivo  
+13 - Acción por el clima
+
+# Definición del Problema
 
 
-2.- Definición del Problema
-
-
-3.- Causas y consecuencias  
+# Causas y consecuencias  
 
 Causas principales que originan el problema:
 - Actividades humanas que generan gases de efecto invernadero que amenazan la vida en la Tierra.
