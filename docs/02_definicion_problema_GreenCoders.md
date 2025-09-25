@@ -27,6 +27,7 @@ Causas sobre la problemática específica (falta de herramienta de resgistro):
  · No hay metas especificas para reducir las emisiones
  
  · No hay un seguimiento respecto a las acciones de los usuarios
+ 
 
 Consecuencias sobre la herramienta específica:
 
