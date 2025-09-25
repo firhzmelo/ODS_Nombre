@@ -23,7 +23,7 @@ Consecuencias que sufre la población objetivo:
 
 
 
-4.- Definición de criterios de exito
+# Definición de criterios de exito
 
 - El prototipo podrá guardar cuantos objetivos cumplió el usuario durante el día
 - El prototipo podrá mostrar un estimado de cuanto carbono el usuario evitó
