@@ -29,7 +29,7 @@ Causas sobre la problemática específica (falta de herramienta de resgistro):
  - No hay un seguimiento respecto a las acciones de los usuarios
  
 
-Consecuencias sobre la herramienta específica:
+Consecuencias sobre la problemática específica:
 
  - Falta de interés en calcular y reducir la huella constantemente
  
