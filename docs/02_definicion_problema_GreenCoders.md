@@ -19,7 +19,7 @@ Consecuencias que sufre la población objetivo:
 - La pobreza y el aumento de refugiados climáticos son resultado de que el cambio climático aumenta los factores que llevan y mantienen a la gente en la pobreza, además de que sus efectos pueden llevar a la destrucción de hogares y comunidades en los países más vulnerables y menos preparados para adaptarse a ellos.
 - El cambio climático representa una de las mayores amenazas para la salud de la humanidad, ya que sus patrones están extendiendo enfermedades, los fenómenos meteorológicos producen más muertes y dificultan la capcidad de los sistemas sanitarios para soportar la presión.
 
-**Causas sobre la problemática específica (falta de herramienta de resgistro): **
+Causas sobre la problemática específica (falta de herramienta de resgistro):
  - No se ha desarrollado o no se ha tenido difusión sobre una herramienta 
 
  · No se lleva un resguardo exacto de diversas actividades emisoras de carbono
@@ -28,7 +28,7 @@ Consecuencias que sufre la población objetivo:
  
  · No hay un seguimiento respecto a las acciones de los usuarios
 
-**Consecuencias sobre la herramienta específica: **
+Consecuencias sobre la herramienta específica:
 
  · Falta de interés en calcular y reducir la huella constantemente
  
