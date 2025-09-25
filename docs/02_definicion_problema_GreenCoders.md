@@ -1,8 +1,11 @@
 # ODS y población objetivo  
 13 - Acción por el clima
 
+En nuestro caso nuestro público objetivo serían adultos jóvenes (18 a 25 años), ya que nos interesa crear una nueva cultura de sustentabilidad, creemos que son los más plausibles a cambiar su mentalidad y crear un mejor futuro para ellos. Sin embargo esta es una problemática que nos afecta a todos por lo que nos gustaria tener un impacto mucho más amplio.
+
 # Definición del Problema
 
+Las personas no tienen una forma de medir su huella de carbono de forma personaliza ni tienen estrategias/objetivos concretos para reducirla.
 
 # Causas y consecuencias  
 
