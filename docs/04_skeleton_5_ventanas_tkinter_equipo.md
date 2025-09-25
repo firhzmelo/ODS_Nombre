@@ -1,4 +1,4 @@
-La estructura de los archivos es la siquiente:
+# Estructura de los archivos
 
 ```
 /src
