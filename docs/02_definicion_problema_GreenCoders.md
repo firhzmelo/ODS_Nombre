@@ -1,10 +1,17 @@
+1.- ODSy población objetivo  
+
+
+2.- Definición del Problema
+
+
+3.- Causas y consecuencias  
 
 
 
 
+4.- Definición de criterios de exito
 
-4.- Objetivos para el exito
-1.-El prototipo podrá guardar cuantos objetivos cumplió el usuario durante el día 
-2.-El prototipo podrá mostrar un estimado de cuanto carbono el usuario evitó 
-3.-El prototipo podrá mostrar los datos de la persona usando la aplicación 
-4.-El prototipo podrá proponer diferentes metas de acuerdo al usuario
+- El prototipo podrá guardar cuantos objetivos cumplió el usuario durante el día
+- El prototipo podrá mostrar un estimado de cuanto carbono el usuario evitó
+- El prototipo podrá mostrar los datos de la persona usando la aplicación
+- El prototipo podrá proponer diferentes metas de acuerdo al usuario  
