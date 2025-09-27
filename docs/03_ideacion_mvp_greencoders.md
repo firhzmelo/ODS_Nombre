@@ -37,4 +37,8 @@ Queremos hacer que la acción por el planeta sea lo más simple posible, así qu
 
 
 # Arquitectura mínima (módulos y descripción de su función).
-
+- `/app`: contiene todos los comandos para la construcción de la interfaz gráfica e interacción con el usuario, contiene un archivo de código por pestaña
+- `/core`: función que lea los datos del formulario de huella de carbono y los ingrese a la base de datos, también una función que administre la generación y registro de las tareas/retos nuevos y ya realizados
+- `api/`: conecta con un servicio que nos da la calidad del aire de León Gto u algún otro medidor de sustentabilidad
+- `viz/`: vizualizar el progreso del usuario en los retos
+- 'data/': base de datos que contenga los retos realizados por el usuario y metadatos de los mismos como la fecha.
