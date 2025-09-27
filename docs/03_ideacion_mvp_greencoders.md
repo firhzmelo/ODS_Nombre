@@ -33,6 +33,8 @@ Queremos hacer que la acción por el planeta sea lo más simple posible, así qu
 <img width="1489" height="626" alt="image" src="https://github.com/user-attachments/assets/3ee300f2-0be3-4152-b496-1e599341c5d2" />
 
 # Wireflow o diagrama simple del flujo de la app
+<img width="1371" height="856" alt="imagen" src="https://github.com/user-attachments/assets/b0a987f6-9ed5-4672-aeca-88da257c4995" />
+
 
 # Arquitectura mínima (módulos y descripción de su función).
 
