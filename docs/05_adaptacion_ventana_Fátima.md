@@ -11,6 +11,7 @@ Estos cambios son la base para que la experiencia del usuario dentro de la app s
 
 #Código
 
+```
 import tkinter as tk
 from tkinter import ttk, messagebox
 
