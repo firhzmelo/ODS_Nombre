@@ -9,7 +9,7 @@ Lista de cambios aplicados a la ventana:
 
 Estos cambios son la base para que la experiencia del usuario dentro de la app sea la más cómoda y entendible posible. También es importante ya que representa la primera interacción que tiene el usuario con las funcionalidades que ofrece la app y, por consiguiente, con el objetivo del ODS 13.
 
-#Código
+# Código
 
 ```
 import tkinter as tk
