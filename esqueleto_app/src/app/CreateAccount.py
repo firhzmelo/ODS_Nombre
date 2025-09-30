@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from leer_usuario import leer_usuario
+from core.leer_usuario import leer_usuario
 
 def emergente(titulo, mensaje, elim):
     global win
@@ -58,4 +58,5 @@ def crea_cuenta(logIn):
     ttk.Entry(frame, textvariable=clave2, show='*').pack(fill='x')
 
     ttk.Button(frame, text="Crear", command=lambda: has_cuenta(usuario.get(), nombre.get(), clave.get(), clave2.get())).pack()
+
     root.mainloop()
