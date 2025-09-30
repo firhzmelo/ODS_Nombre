@@ -3,6 +3,7 @@ from tkinter import ttk
 from CreateAccount import crea_cuenta
 from core.leer_usuario import leer_usuario
 from main import main
+from core.classes import User
 
 def dirige():
     LogIn.destroy()
@@ -59,5 +60,4 @@ def logIn():
 
 if __name__ == "__main__":
     logIn()
-
 
