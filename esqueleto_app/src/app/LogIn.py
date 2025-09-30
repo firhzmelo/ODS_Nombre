@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from CreateAccount import crea_cuenta
-from leer_usuario import leer_usuario
+from core.leer_usuario import leer_usuario
 from main import main
 
 def dirige():
@@ -59,4 +59,5 @@ def logIn():
 
 if __name__ == "__main__":
     logIn()
+
 
