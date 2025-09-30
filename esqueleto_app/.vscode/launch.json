@@ -5,7 +5,7 @@
       "name": "Programa con PYTHONPATH=src",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/src/app/main.py",
+      "program": "${workspaceFolder}/src/app/LogIn.py",
       "cwd": "${workspaceFolder}",
       "env": { "PYTHONPATH": "${workspaceFolder}/src" },
       "console": "integratedTerminal",
