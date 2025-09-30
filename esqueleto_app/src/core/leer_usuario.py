@@ -1,6 +1,6 @@
 def leer_usuario(usuario):
     import os
-    from classes import User
+    from core.classes import User
     lista_archivos = os.listdir()
     if usuario in lista_archivos:
         archivo = open(usuario, "r")
