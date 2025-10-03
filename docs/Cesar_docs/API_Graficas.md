@@ -11,7 +11,6 @@ Con respecto a las gráficas los cambios que hice fueron:
  - Agregé la cuadrícula punteada, en la de línea con una transparencia de 0.2 y en la de barras del 0.5.
  - En el eje X, cambie las etiqueteas para que esten roatdas 90° y que no se amontonen, ademas estableci el tamaño de la fuente en 6.
  - Cambie los nombres de los gráficos y el nombre del eje Y de acuerdo a la información que muestran ahora.
- - 
  - En la gráfica de línea, cambié el marcador de la posición de un dato, de "o" a "^".
  - En la gráfica de línea, cambié el ancho de linea a .5.
  - En la gráfica de línea, cambié el color de la línea y de los puntos por "darkgoldenrod"
